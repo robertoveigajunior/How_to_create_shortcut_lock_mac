@@ -1,8 +1,8 @@
 #Lock Screen Service
 
-1 - Launch Automator from your Applications folder.
-2 - Select “Service” as the document type.
-3 - Select “Utilities” from the list on the left, then double-click “Run Shell Script” in the next column.
+#1 - Launch Automator from your Applications folder.
+#2 - Select “Service” as the document type.
+#3 - Select “Utilities” from the list on the left, then double-click “Run Shell Script” in the next column.
 
 ![alt tag](http://www.macyourself.com/wp-content/uploads/2013/01/012713-lockscreen-screen1.jpg)
 
