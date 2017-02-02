@@ -30,7 +30,7 @@
 
 >**4 - Click Add and you’re all done!**
 
-Agora quando você pressionar o atalho (Command+Shift+L), o mac irá imediatamente para a tela de inicio de sessão, apenas com a senha do usuario será possivel logar novamente.
+Agora quando você pressionar o atalho (Command+Shift+L), o mac irá imediatamente para a tela de inicio de sessão, apenas com a senha do usuário será possível logar novamente.
 
 **Referência:** _http://www.macyourself.com/2013/01/27/how-to-lock-your-mac-screen-with-a-keyboard-shortcut/_
 
