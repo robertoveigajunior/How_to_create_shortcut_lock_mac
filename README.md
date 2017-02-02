@@ -30,7 +30,7 @@
 
 >**4 - Click Add and you’re all done!**
 
-Now when you press your keyboard shortcut (Command+Shift+L), the Mac login screen will immediately be displayed. You’re still technically logged in and processes such as large downloads will continue in the background. But you can leave your Mac unattended without worry – no one will be able to access your account until you enter your password. When you do, everything on your desktop will be there just as you left it!
+Agora quando você pressionar o atalho (Command+Shift+L), o mac irá imediatamente para a tela de inicio de sessão, apenas com a senha do usuario será possivel logar novamente.
 
 **Referência:** _http://www.macyourself.com/2013/01/27/how-to-lock-your-mac-screen-with-a-keyboard-shortcut/_
 
