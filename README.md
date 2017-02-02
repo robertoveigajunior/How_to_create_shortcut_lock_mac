@@ -16,6 +16,8 @@
   
   ![alt tag](http://www.macyourself.com/wp-content/uploads/2013/01/012713-lockscreen-screen2.jpg)
 
+>**Go to File > Save and name your service “Lock Screen”. Once saved, you can now quit Automator.**
+
 #Lock Mac screen with keyboard shortcut
 
 >**1 - Launch System Preferences and go to the Keyboard pane.**
