@@ -1,4 +1,4 @@
-_Lock Screen Service_
+#Lock Screen Service
 
 >**1 - Launch Automator from your Applications folder.**
 
