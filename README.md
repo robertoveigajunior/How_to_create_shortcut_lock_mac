@@ -4,6 +4,7 @@
 
 Select “Service” as the document type.
 Select “Utilities” from the list on the left, then double-click “Run Shell Script” in the next column.
+
 Lock Mac screen with keyboard shortcut
 On the top-right side of the screen, adjust the drop-down menus so the statement reads: “Service receives [no input] in [any application]”
 Copy the following command into the large text box that appears:
