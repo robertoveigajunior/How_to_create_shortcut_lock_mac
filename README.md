@@ -10,7 +10,7 @@ _Lock Screen Service_
 
 >**4 - On the top-right side of the screen, adjust the drop-down menus so the statement reads: “Service receives [no input] in [any application]”**
 
->**5 - Copy the following command into the large text box that appears:
+>**5 - Copy the following command into the large text box that appears:**
 
   >_/System/Library/CoreServices/"Menu Extras"/User.menu/Contents/Resources/CGSession -suspend_
   
